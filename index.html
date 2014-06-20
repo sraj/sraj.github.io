@@ -11,45 +11,33 @@
 	<link href="http://sraj.github.io/index.xml" rel="alternate" type="application/rss+xml" title="SRaj&#39;s Blog" />
 	<link rel="stylesheet" href="/assets/css/normalize.min.css"/>
 	<link rel="stylesheet" href="/assets/css/foundation.min.css"/>
+	<link rel="stylesheet" href="/assets/css/blog.css"/>
 	<script src="/assets/js/modernizr.min.js"></script>
 	<style type="text/css">
-	.side-nav {
-		display: block;
-		margin: 0;
-		padding: 0.875rem 0;
-		list-style-type: none;
-		list-style-position: inside;
-	}
-	.panel {
-		border-style: solid;
-		border-width: 1px;
-		border-color: #d7d7d7;
-		margin-bottom: 1.25rem;
-		padding: 1.25rem;
-		background: #f2f2f2;
-	}
 	</style>
 </head>
 <body>
 
-	<div class="row">
-		<div class="large-12 columns" style="border-bottom:1px dotted lightcoral; margin-bottom:2em;">
+	<div class="row blog-header">
+		<div class="large-12 columns">
 			<h1>SRaj&#39;s Blog <small>Connecting..thoughts</small></h1>
 		</div>
 	</div>
 
 	<div class="row">
-		<div class="large-9 columns" role="content">
+		<div class="large-9 columns blog-articles" role="content">
 
-			<article style="margin-bottom:2em; padding-bottom:1em; border-bottom:1px solid lightgray;">
-				<h2><a href="http://sraj.github.io/lorem-ipsum">Lorem Ipsum</a></h2>
-				<div class="subheader">
-					<span>Jun 20, 2014</span>
-					<span style="float:right;">
-						
+			<article class="blog-article">
+				<div class="blog-article-header">
+					<h2><a href="http://sraj.github.io/lorem-ipsum">Lorem Ipsum</a></h2>
+					<div class="subheader">
+						<span>Jun 20, 2014</span>
+						<span style="float:right;">
+							
 							<a href="/tags/development">#development</a>
-						
-					</span>
+							
+						</span>
+					</div>
 				</div>
 				<p> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam dictum velit enim, ut cursus tellus aliquet in. Nulla nec nulla interdum, vulputate erat eget, fringilla mi. Pellentesque lacinia iaculis velit, sit amet dapibus nulla venenatis at. Integer at quam a tellus gravida dictum vel tristique erat. Nulla facilisi. Proin egestas nisl luctus, pellentesque mi vitae, viverra arcu. Nam vehicula nisl at eros pulvinar, a tempus massa porta. Sed eget sapien vitae mi mattis dictum non nec augue. Pellentesque felis enim, viverra ac ante quis, scelerisque laoreet metus. Morbi sollicitudin arcu tempus nibh molestie, non luctus dolor consectetur. Aliquam orci justo, fermentum sed feugiat vel, elementum vel quam. Sed quis nunc mi. Maecenas sed eros eget dui auctor tincidunt. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut cursus mi lorem, at tempus odio lobortis vel.</p>
 
@@ -61,7 +49,9 @@
 
 <p>Aenean volutpat egestas nulla, ut lacinia quam fringilla mollis. Nulla ac faucibus ante, a interdum risus. Suspendisse faucibus in magna a tincidunt. Vestibulum id mauris arcu. Vivamus iaculis pretium molestie. In mattis tortor eget mauris scelerisque, non pharetra mi dictum. Suspendisse vel neque arcu. In vitae nibh at arcu pulvinar viverra. Vivamus vestibulum urna nec nibh dictum posuere.</p>
  </p>
-				<div class="subheader">Written by <a href="https://github.com/sraj/">Suman Raj</a></div>
+				<div class="subheader blog-article-footer">Written by 
+					<a href="https://github.com/sraj/">Suman Raj</a>
+				</div>
 			</article>
 
         </div>
@@ -69,7 +59,7 @@
 
         <aside class="large-3 columns">
             <h5>Tags</h5>
-            <ul class="side-nav">
+            <ul class="blog-side-nav">
                 
                 <li class="no-bullets"><a href="/tags/development">development</a></li>
                 
@@ -79,8 +69,8 @@
 
     </div>
 
-    <footer class="row" style="border-top:1px dotted lightcoral;">
-        <div class="large-12 columns" style="margin-top:1em;">
+    <footer class="row blog-footer">
+        <div class="large-12 columns">
             <div class="row">
                 <div class="large-6 columns">
                     <p>Copyright © 2014 Suman Raj Venkatesan </p>
