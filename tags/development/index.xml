@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Development on SRaj&#39;s Blog </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://sraj.github.io/tags/development/index.xml</link>
+    
+    
+    <copyright>Copyright © 2014 Suman Raj Venkatesan</copyright>
+    <updated>Fri, 20 Jun 2014 13:51:31 IST</updated>
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>http://sraj.github.io/lorem-ipsum</link>
+      <pubDate>Fri, 20 Jun 2014 13:51:31 IST</pubDate>
+      
+      <guid>http://sraj.github.io/lorem-ipsum</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam dictum velit enim, ut cursus tellus aliquet in. Nulla nec nulla interdum, vulputate erat eget, fringilla mi. Pellentesque lacinia iaculis velit, sit amet dapibus nulla venenatis at. Integer at quam a tellus gravida dictum vel tristique erat. Nulla facilisi. Proin egestas nisl luctus, pellentesque mi vitae, viverra arcu. Nam vehicula nisl at eros pulvinar, a tempus massa porta. Sed eget sapien vitae mi mattis dictum non nec augue. Pellentesque felis enim, viverra ac ante quis, scelerisque laoreet metus. Morbi sollicitudin arcu tempus nibh molestie, non luctus dolor consectetur. Aliquam orci justo, fermentum sed feugiat vel, elementum vel quam. Sed quis nunc mi. Maecenas sed eros eget dui auctor tincidunt. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut cursus mi lorem, at tempus odio lobortis vel.&lt;/p&gt;
+
+&lt;p&gt;Ut congue est ut libero accumsan, varius fermentum nisi lobortis. Sed mattis vestibulum ante, et volutpat ante posuere in. Pellentesque molestie tempor velit, eget iaculis mi consequat ut. Cras in facilisis neque. Praesent iaculis arcu in justo iaculis volutpat. Ut nisi tellus, aliquam venenatis blandit sed, sagittis nec nulla. Praesent a sapien eget sapien accumsan porta. Aliquam in convallis ipsum. In hac habitasse platea dictumst. Nam ac sapien eros. Praesent sapien nisi, viverra ac ipsum at, consequat tempor nunc. Etiam nec erat quis nunc venenatis imperdiet. Ut sem nulla, ultrices vel sodales eu, tincidunt eget nunc. In interdum tellus in vehicula molestie.&lt;/p&gt;
+
+&lt;p&gt;Maecenas ut vulputate velit. Aliquam eu tempus risus, vitae semper arcu. Ut rhoncus massa sit amet sollicitudin sagittis. Nulla blandit in odio et lacinia. Sed blandit nisi mollis egestas pharetra. Vestibulum eget leo at nisl elementum venenatis a vitae quam. Integer faucibus ligula et ligula posuere, at condimentum eros faucibus. Integer nec sem vitae nisi pretium vestibulum. Nullam vel dapibus metus. Nullam imperdiet congue lectus, a facilisis lorem ultrices id. Sed vestibulum porta dui, quis tincidunt ante rutrum at. Praesent vel lorem placerat, posuere massa posuere, sagittis nunc. Proin mattis vitae nulla et semper. Nulla iaculis risus ac urna accumsan tincidunt. Etiam id ligula lobortis, ultrices quam nec, vulputate neque. Aliquam erat volutpat.&lt;/p&gt;
+
+&lt;p&gt;Maecenas enim lacus, sollicitudin id felis et, posuere dapibus turpis. Curabitur velit turpis, fermentum vulputate nisl venenatis, volutpat eleifend lectus. Etiam sit amet sem pretium nunc egestas imperdiet in non lorem. Curabitur adipiscing sapien eu iaculis ultricies. Nulla laoreet dolor dui, at malesuada nisl convallis sit amet. Vestibulum ornare pellentesque felis vestibulum gravida. In a ultrices enim. Nam pretium in nibh non rhoncus. Maecenas nec sapien sed nisi vehicula sollicitudin sed et enim. Morbi nec ligula non sem lacinia ultrices.&lt;/p&gt;
+
+&lt;p&gt;Aenean volutpat egestas nulla, ut lacinia quam fringilla mollis. Nulla ac faucibus ante, a interdum risus. Suspendisse faucibus in magna a tincidunt. Vestibulum id mauris arcu. Vivamus iaculis pretium molestie. In mattis tortor eget mauris scelerisque, non pharetra mi dictum. Suspendisse vel neque arcu. In vitae nibh at arcu pulvinar viverra. Vivamus vestibulum urna nec nibh dictum posuere.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
